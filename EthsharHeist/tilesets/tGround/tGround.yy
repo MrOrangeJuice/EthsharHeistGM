@@ -1,5 +1,4 @@
 {
-  "name": "tGround",
   "spriteId": {
     "name": "roguelikeDungeon_transparent",
     "path": "sprites/roguelikeDungeon_transparent/roguelikeDungeon_transparent.yy",
@@ -559,6 +558,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
+  "name": "tGround",
   "tags": [],
   "resourceType": "GMTileSet",
 }
