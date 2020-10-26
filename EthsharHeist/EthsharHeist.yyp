@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"sLevelSelect","path":"sprites/sLevelSelect/sLevelSelect.yy",},"order":3,},
     {"id":{"name":"oTitle","path":"objects/oTitle/oTitle.yy",},"order":12,},
     {"id":{"name":"oArrowLeft","path":"objects/oArrowLeft/oArrowLeft.yy",},"order":2,},
     {"id":{"name":"sCornerUpLeft","path":"sprites/sCornerUpLeft/sCornerUpLeft.yy",},"order":9,},
@@ -20,6 +21,7 @@
     {"id":{"name":"oBladeTrap","path":"objects/oBladeTrap/oBladeTrap.yy",},"order":21,},
     {"id":{"name":"DrawSetText","path":"scripts/DrawSetText/DrawSetText.yy",},"order":0,},
     {"id":{"name":"sIntersectionRight","path":"sprites/sIntersectionRight/sIntersectionRight.yy",},"order":2,},
+    {"id":{"name":"oLevelSelect","path":"objects/oLevelSelect/oLevelSelect.yy",},"order":23,},
     {"id":{"name":"sCornerRightDown","path":"sprites/sCornerRightDown/sCornerRightDown.yy",},"order":11,},
     {"id":{"name":"oCornerDownRight","path":"objects/oCornerDownRight/oCornerDownRight.yy",},"order":15,},
     {"id":{"name":"sIntersectionFull","path":"sprites/sIntersectionFull/sIntersectionFull.yy",},"order":4,},
@@ -34,6 +36,7 @@
     {"id":{"name":"sRogueLeft","path":"sprites/sRogueLeft/sRogueLeft.yy",},"order":1,},
     {"id":{"name":"sIntersectionNoDown","path":"sprites/sIntersectionNoDown/sIntersectionNoDown.yy",},"order":7,},
     {"id":{"name":"sEmpty","path":"sprites/sEmpty/sEmpty.yy",},"order":7,},
+    {"id":{"name":"rLevelSelect","path":"rooms/rLevelSelect/rLevelSelect.yy",},"order":2,},
     {"id":{"name":"oIntersectionNoDown","path":"objects/oIntersectionNoDown/oIntersectionNoDown.yy",},"order":8,},
     {"id":{"name":"oPlateTrap","path":"objects/oPlateTrap/oPlateTrap.yy",},"order":20,},
     {"id":{"name":"sMagicBlade","path":"sprites/sMagicBlade/sMagicBlade.yy",},"order":2,},
@@ -45,6 +48,8 @@
     {"id":{"name":"roguelikeDungeon_transparent","path":"sprites/roguelikeDungeon_transparent/roguelikeDungeon_transparent.yy",},"order":8,},
     {"id":{"name":"sCornerLeftDown","path":"sprites/sCornerLeftDown/sCornerLeftDown.yy",},"order":12,},
     {"id":{"name":"oTransition","path":"objects/oTransition/oTransition.yy",},"order":10,},
+    {"id":{"name":"oLevel1","path":"objects/oLevel1/oLevel1.yy",},"order":24,},
+    {"id":{"name":"sLevel1","path":"sprites/sLevel1/sLevel1.yy",},"order":4,},
     {"id":{"name":"sIntersectionDown","path":"sprites/sIntersectionDown/sIntersectionDown.yy",},"order":0,},
     {"id":{"name":"sTitle","path":"sprites/sTitle/sTitle.yy",},"order":1,},
     {"id":{"name":"sIntersectionNoLeft","path":"sprites/sIntersectionNoLeft/sIntersectionNoLeft.yy",},"order":6,},
@@ -69,6 +74,7 @@
   },
   "RoomOrder": [
     {"name":"rTitle","path":"rooms/rTitle/rTitle.yy",},
+    {"name":"rLevelSelect","path":"rooms/rLevelSelect/rLevelSelect.yy",},
     {"name":"rTest","path":"rooms/rTest/rTest.yy",},
   ],
   "Folders": [
