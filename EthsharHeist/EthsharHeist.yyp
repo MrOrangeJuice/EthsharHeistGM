@@ -41,6 +41,7 @@
     {"id":{"name":"rLevelSelect","path":"rooms/rLevelSelect/rLevelSelect.yy",},"order":2,},
     {"id":{"name":"oIntersectionNoDown","path":"objects/oIntersectionNoDown/oIntersectionNoDown.yy",},"order":8,},
     {"id":{"name":"oPlateTrap","path":"objects/oPlateTrap/oPlateTrap.yy",},"order":20,},
+    {"id":{"name":"sBlade","path":"sprites/sBlade/sBlade.yy",},"order":4,},
     {"id":{"name":"sMagicBlade","path":"sprites/sMagicBlade/sMagicBlade.yy",},"order":2,},
     {"id":{"name":"sQuit","path":"sprites/sQuit/sQuit.yy",},"order":2,},
     {"id":{"name":"SlideTransition","path":"scripts/SlideTransition/SlideTransition.yy",},"order":1,},
