@@ -2,8 +2,7 @@
 // You can write your code in this editor
 if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x,mouse_y,id) && toggle)
 {
-	xdirection *= -1;
-	ydirection *= -1;
+	walksp = 0;
 	alarm[1] = 200;
 }
 
