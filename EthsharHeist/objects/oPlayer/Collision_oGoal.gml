@@ -1,2 +1,4 @@
 /// @description Finish Level
-SlideTransition(TRANS_MODE.RESTART);
+if (!requiresKey){
+	SlideTransition(TRANS_MODE.RESTART);
+}
