@@ -2,13 +2,13 @@
 // You can write your code in this editor
 if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x,mouse_y,id) && toggle)
 {
-	toggle = !toggle;
-	alarm[0] = 500;
+	xdirection *= -1;
+	ydirection *= -1;
+	alarm[1] = 200;
 }
 
-if (toggle){
-	image_index = 0;
-}
-else {
-	image_index = 1;
-}
+hsp = xdirection * walksp;
+vsp = ydirection * walksp;
+
+x = x + hsp;
+y = y + vsp;
