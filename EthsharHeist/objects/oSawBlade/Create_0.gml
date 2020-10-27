@@ -12,3 +12,9 @@ if (vertical)
 	xdirection = 0;
 	ydirection = 1;
 }
+
+if (dummy){
+	xdirection = 0;
+	ydirection = 1;
+	walksp = 0;
+}
