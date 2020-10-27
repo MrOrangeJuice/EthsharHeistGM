@@ -8,10 +8,11 @@ if (abs(x - other.x) < 3 && abs(y - other.y) < 3){
 	else{
 		other.numKeys--;
 		door.image_index = 2;
-	}
-	if (finalCheck){
-		door.image_index = 1;
-		other.ydirection = -1;
-		other.xdirection = 0;
+		if (finalCheck){
+			door.image_index = 1;
+			other.ydirection = -1;
+			other.xdirection = 0;
+			SlideTransition(TRANS_MODE.NEXT);
+		}
 	}
 }
