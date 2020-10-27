@@ -1,4 +1,8 @@
 /// @description Finish Level
-if (!requiresKey){
-	SlideTransition(TRANS_MODE.RESTART);
+if (abs(x - other.x) < 3 && abs(y - other.y) < 3){
+	x = other.x;
+	y = other.y;
+	if (!requiresKey){
+		SlideTransition(TRANS_MODE.RESTART);
+	}
 }

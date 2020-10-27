@@ -1,5 +1,7 @@
 /// @description Corner Collision
-if (x == other.x && y == other.y) {
+if (abs(x - other.x) < 3 && abs(y - other.y) < 3){
+	x = other.x;
+	y = other.y;
     if(ydirection = -1)
 	{
 		xdirection = 1;

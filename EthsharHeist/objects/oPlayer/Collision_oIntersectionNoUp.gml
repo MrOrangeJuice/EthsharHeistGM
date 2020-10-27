@@ -1,6 +1,8 @@
 /// @description Change direction
 
-if (x == other.x && y == other.y) {
+if (abs(x - other.x) < 3 && abs(y - other.y) < 3){
+	x = other.x;
+	y = other.y;
     switch(other.current)
 	{
 		case "down":

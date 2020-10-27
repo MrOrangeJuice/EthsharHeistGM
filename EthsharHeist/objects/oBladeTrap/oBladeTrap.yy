@@ -34,6 +34,7 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oIntersectionNoRight","path":"objects/oIntersectionNoRight/oIntersectionNoRight.yy",},"parent":{"name":"oBladeTrap","path":"objects/oBladeTrap/oBladeTrap.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oIntersectionNoUp","path":"objects/oIntersectionNoUp/oIntersectionNoUp.yy",},"parent":{"name":"oBladeTrap","path":"objects/oBladeTrap/oBladeTrap.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":1,"eventType":2,"collisionObjectId":null,"parent":{"name":"oBladeTrap","path":"objects/oBladeTrap/oBladeTrap.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oGoal","path":"objects/oGoal/oGoal.yy",},"parent":{"name":"oBladeTrap","path":"objects/oBladeTrap/oBladeTrap.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
