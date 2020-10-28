@@ -47,7 +47,6 @@
     {"id":{"name":"sCornerRightDown","path":"sprites/sCornerRightDown/sCornerRightDown.yy",},"order":11,},
     {"id":{"name":"oCornerDownRight","path":"objects/oCornerDownRight/oCornerDownRight.yy",},"order":15,},
     {"id":{"name":"Door_text","path":"objects/Door_text/Door_text.yy",},"order":33,},
-    {"id":{"name":"Sprite61","path":"sprites/Sprite61/Sprite61.yy",},"order":27,},
     {"id":{"name":"sIntersectionFull","path":"sprites/sIntersectionFull/sIntersectionFull.yy",},"order":4,},
     {"id":{"name":"s8","path":"sprites/s8/s8.yy",},"order":13,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
