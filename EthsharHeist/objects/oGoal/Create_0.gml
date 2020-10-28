@@ -3,3 +3,6 @@
 image_index = 1;
 rebound = true;
 door = instance_find(oDoor, doorNo);
+if (finalCheck){
+	image_index = 2;
+}
