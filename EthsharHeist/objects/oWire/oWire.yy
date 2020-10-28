@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite45",
-    "path": "sprites/Sprite45/Sprite45.yy",
+    "name": "Sprite58",
+    "path": "sprites/Sprite58/Sprite58.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Player_Text",
+  "name": "oWire",
   "tags": [],
   "resourceType": "GMObject",
 }
