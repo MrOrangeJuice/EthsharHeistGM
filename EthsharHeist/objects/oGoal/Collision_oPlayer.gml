@@ -9,6 +9,7 @@ if (abs(x - other.x) < 3 && abs(y - other.y) < 3 && rebound){
 		other.numKeys--;
 		door.image_index = 2;
 		rebound = false;
+		audio_play_sound(snd_Door,5,false);
 		if (finalCheck){
 			door.image_index = 1;
 			other.ydirection = -1;

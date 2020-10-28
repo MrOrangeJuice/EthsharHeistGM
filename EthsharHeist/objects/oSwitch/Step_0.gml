@@ -2,6 +2,7 @@
 // You can write your code in this editor
 if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x,mouse_y,id))
 {
+	audio_play_sound(snd_Lever,5,false);
 	toggle = !toggle;
 	for (i = 0; i < ds_list_size(dependencies); i++){
 		ds_list_find_value(dependencies, i).toggle = !(ds_list_find_value(dependencies, i).toggle);
