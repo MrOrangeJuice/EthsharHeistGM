@@ -33,6 +33,12 @@
     {"compositeImage":{"FrameId":{"name":"de03d17a-615c-43dc-8add-65a563d826bf","path":"sprites/sGoal/sGoal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"de03d17a-615c-43dc-8add-65a563d826bf","path":"sprites/sGoal/sGoal.yy",},"LayerId":{"name":"043632ad-6530-4351-bfdf-a8d403577217","path":"sprites/sGoal/sGoal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"sGoal","path":"sprites/sGoal/sGoal.yy",},"resourceVersion":"1.0","name":"de03d17a-615c-43dc-8add-65a563d826bf","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9bf6ff8c-9f14-4582-825d-0609db49a537","path":"sprites/sGoal/sGoal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9bf6ff8c-9f14-4582-825d-0609db49a537","path":"sprites/sGoal/sGoal.yy",},"LayerId":{"name":"043632ad-6530-4351-bfdf-a8d403577217","path":"sprites/sGoal/sGoal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGoal","path":"sprites/sGoal/sGoal.yy",},"resourceVersion":"1.0","name":"9bf6ff8c-9f14-4582-825d-0609db49a537","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d26620f7-cab4-4404-8fca-3baedf6c5214","path":"sprites/sGoal/sGoal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d26620f7-cab4-4404-8fca-3baedf6c5214","path":"sprites/sGoal/sGoal.yy",},"LayerId":{"name":"043632ad-6530-4351-bfdf-a8d403577217","path":"sprites/sGoal/sGoal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sGoal","path":"sprites/sGoal/sGoal.yy",},"resourceVersion":"1.0","name":"d26620f7-cab4-4404-8fca-3baedf6c5214","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"sGoal","path":"sprites/sGoal/sGoal.yy",},
