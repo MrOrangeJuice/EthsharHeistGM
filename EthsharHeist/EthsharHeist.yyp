@@ -29,6 +29,7 @@
     {"id":{"name":"oIntersectionNoLeft","path":"objects/oIntersectionNoLeft/oIntersectionNoLeft.yy",},"order":7,},
     {"id":{"name":"Sprite44","path":"sprites/Sprite44/Sprite44.yy",},"order":15,},
     {"id":{"name":"s2","path":"sprites/s2/s2.yy",},"order":7,},
+    {"id":{"name":"oPlayerDead","path":"objects/oPlayerDead/oPlayerDead.yy",},"order":36,},
     {"id":{"name":"sStart","path":"sprites/sStart/sStart.yy",},"order":0,},
     {"id":{"name":"oBladeTrap","path":"objects/oBladeTrap/oBladeTrap.yy",},"order":21,},
     {"id":{"name":"DrawSetText","path":"scripts/DrawSetText/DrawSetText.yy",},"order":0,},
