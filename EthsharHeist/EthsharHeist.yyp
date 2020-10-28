@@ -9,6 +9,7 @@
     {"id":{"name":"rLevel_04","path":"rooms/rLevel_04/rLevel_04.yy",},"order":6,},
     {"id":{"name":"sLevelHighlight","path":"sprites/sLevelHighlight/sLevelHighlight.yy",},"order":5,},
     {"id":{"name":"rLevel_09","path":"rooms/rLevel_09/rLevel_09.yy",},"order":12,},
+    {"id":{"name":"sRogueDeath","path":"sprites/sRogueDeath/sRogueDeath.yy",},"order":4,},
     {"id":{"name":"rLevel_10","path":"rooms/rLevel_10/rLevel_10.yy",},"order":13,},
     {"id":{"name":"oArrowDown","path":"objects/oArrowDown/oArrowDown.yy",},"order":4,},
     {"id":{"name":"sHelp","path":"sprites/sHelp/sHelp.yy",},"order":16,},
