@@ -1,3 +1,3 @@
 /// @description Initialize Variables
-alarm[0] = room_speed;
-alarm[1] = room_speed * 3;
+audio_play_sound(snd_Death,5,false);
+alarm[1] = room_speed;

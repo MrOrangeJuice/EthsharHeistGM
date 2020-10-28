@@ -31,6 +31,8 @@ else
 // Change current
 if(mouse_check_button_pressed(mb_left)) && position_meeting(mouse_x,mouse_y,id) 
 {
+	audio_stop_sound(snd_Click);
+	audio_play_sound(snd_Click,5,false);
 	if(current == "left")
 	{
 		current = "right";
